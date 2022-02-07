@@ -1,0 +1,9 @@
+comtypes==1.1.10
+PyAudio @ file:///C:/Users/1cebe/PycharmProjects/pythonProject1/nsuem_assistant/venv/Scripts/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pypiwin32==223
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.1
+pyttsx3==2.71
+pywin32==303
+SpeechRecognition==3.8.1
